@@ -1,0 +1,9 @@
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\bin\Debug\RowDataGateway.exe.config
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\bin\Debug\RowDataGateway.exe
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\bin\Debug\RowDataGateway.pdb
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\bin\Debug\ConexionSqlServer.dll
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\bin\Debug\ConexionSqlServer.pdb
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\obj\Debug\RowDataGateway.csprojAssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\obj\Debug\RowDataGateway.csproj.CopyComplete
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\obj\Debug\RowDataGateway.exe
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\RowDataGateway\obj\Debug\RowDataGateway.pdb

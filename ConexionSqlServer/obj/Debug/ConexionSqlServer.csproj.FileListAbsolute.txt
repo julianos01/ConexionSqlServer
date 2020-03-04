@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.dll
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\ConexionSqlServer\bin\Debug\ConexionSqlServer.pdb
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.csprojAssemblyReference.cache
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.dll
+C:\Users\LENOVO\Source\Repos\ConexionSqlServer\ConexionSqlServer\obj\Debug\ConexionSqlServer.pdb
